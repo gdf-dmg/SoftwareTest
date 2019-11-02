@@ -23,7 +23,7 @@ public class Sort {
 	            {
 	                max = i;
 	            }
-	            if(a[i]<a[min])
+	            if(a[i]>a[min])
 	            {
 	                min = i;
 	            }

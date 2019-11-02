@@ -18,7 +18,7 @@ public class SortTest {
 		if(Arrays.equals(str, right))
 		{
 			i=true;
-			System.out.println(str);
+			System.out.println(Arrays.toString(str));
 		}
 		else
 		{
@@ -38,7 +38,7 @@ public class SortTest {
 		if(Arrays.equals(str1, right))
 		{
 			i=true;
-			System.out.println(str1);
+			System.out.println(Arrays.toString(str1));
 		}
 		else
 		{
